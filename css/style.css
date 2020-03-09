@@ -3571,7 +3571,8 @@ input[type="button"].btn-block {
   .navbar-expand-md > .container,
   .navbar-expand-md > .container-fluid {
     padding-right: 0;
-    padding-left: 0; } }
+    padding-left: 0;
+  } }
 
 @media (min-width: 768px) {
   .navbar-expand-md {
@@ -8026,9 +8027,7 @@ h1, h2, h3, h4, h5,
 .text-primary {
   color: #9DC950 !important; }
 
-  .flex-container {
-    display: flex;
-  }
+
 .ftco-navbar-light {
   background: transparent !important;
   position: absolute;
