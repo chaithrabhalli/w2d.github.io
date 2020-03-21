@@ -246,10 +246,10 @@ h1, h2, h3, h4, h5,
 		background: $white!important;
 		box-shadow: 0 0 10px 0 rgba(0,0,0,.1);
 		padding: 0 1px;
-		.flex-container {
-			display: flex;
-			width: 40px;
-		  }
+		// .flex-container {
+		// 	display: flex;
+		// 	width: 40px;
+		//   }
 		.nav-item {
 			> .nav-link{
 				@include media-breakpoint-down(md){
